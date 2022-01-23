@@ -22,6 +22,7 @@ using namespace std;
 #include "Constants.h"
 #include <iostream>
 #include <fstream>
+#include <algorithm>
 
 void generateRandomLetters(vector<char>& letters, int lettersCount)
 {
